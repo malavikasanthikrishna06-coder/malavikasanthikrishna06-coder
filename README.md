@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img src="banner.png" width="100%" alt="GitHub Banner">
+</p>
 
 <!--
 **malavikasanthikrishna06-coder/malavikasanthikrishna06-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
