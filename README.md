@@ -6,6 +6,10 @@
 🤖 Passionate about Computer Vision, Robotics & Deep Learning  
 🚀 Building intelligent systems that solve real-world problems
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+<h2>🐍 Contribution Snake</h2>
+
+<img src="https://raw.githubusercontent.com/malavikasanthikrishna06-coder/malavikasanthikrishna06-coder/output/github-contribution-grid-snake.svg">
 ## 🧠 About Me
 
 - 🔭 Working on AI, Computer Vision & Robotics projects
