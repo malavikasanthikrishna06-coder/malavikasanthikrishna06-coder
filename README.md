@@ -1,76 +1,69 @@
-<p align="center">
-  <img src="assets/images/banner.png" width="100%" alt="Banner"/>
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineering+Student;Computer+Vision+Enthusiast;Deep+Learning+Explorer;Building+Real-World+AI+Projects" alt="Typing SVG" />
-</p>
-<h1 align="center">Hi 👋, I'm Malavika S</h1>
+<div align="center">
 
-<h3 align="center">
-AI & Machine Learning Engineering Student
-</h3>
+<img src="https://your-banner-link-here" width="100%">
 
-<p align="center">
+# Hi 👋, I'm Malavika S
+
+### AI & Machine Learning Engineering Student
+
 Passionate about Computer Vision, Deep Learning, Robotics, and building intelligent real-world solutions.
-</p>
+
+</div>
+
 ---
 
 ## 🚀 About Me
 
-- 🎓 B.Tech in AI & Machine Learning
-- 💻 Passionate about Computer Vision and Deep Learning
-- 🌱 Currently learning advanced AI and real-world ML applications
-- 🎯 Goal: Build impactful AI solutions and grow as an AI Engineer
+- 🎓 B.Tech AI & Machine Learning Student
+- 👁️ Exploring Computer Vision and Deep Learning
+- 🤖 Building AI-powered real-world applications
+- 🌱 Currently learning Advanced AI, ML Systems & Robotics
+- 🎯 Goal: Become an AI Engineer building impactful solutions
 
 ---
-## 📊 GitHub Statistics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=malavikasanthikrishna06-coder&show_icons=true&theme=tokyonight&hide_border=true"/>
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malavikasanthikrishna06-coder&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 ## 🛠️ Tech Stack
 
-**Languages**
-- Python
-- C
-- SQL
+### Languages
+Python • C++ • JavaScript
 
-**AI & Computer Vision**
-- YOLOv8
-- OpenCV
-- PyTorch
-- TensorFlow
+### AI/ML
+PyTorch • TensorFlow • OpenCV • YOLO • Scikit-learn
 
-**Tools**
-- Git
-- GitHub
-- Streamlit
-- ROS2
-- VS Code
+### Robotics
+ROS2 • PyBullet • Computer Vision Robotics
+
+### Development
+Git • GitHub • Flask • Streamlit
 
 ---
 
-## 🌟 Featured Projects
+## 📊 GitHub Statistics
 
-✈️ Airport Runway Analytics
+<img src="https://github-readme-stats.vercel.app/api?username=malavikasanthikrishna06-coder&show_icons=true&theme=tokyonight" />
 
-🤖 AI Resume Analyzer
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=malavikasanthikrishna06-coder&theme=tokyonight" />
 
-🛩️ Bottle Detection using YOLOv8
+---
 
-🧠 MNIST Handwritten Digit Recognition
+## 🚀 Featured Projects
 
-🎬 Movie Recommendation System
+### ✈️ Airport Runway Analytics System
+Computer Vision based runway monitoring system using YOLO and OpenCV.
+
+### 🧠 MNIST Handwritten Digit Recognition
+CNN based deep learning model achieving 98%+ accuracy.
+
+### 🔎 AI Resume Analyzer
+AI-powered resume analysis platform.
+
+### 🌸 BloomVision
+Interactive computer vision project using MediaPipe.
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: *(Add your LinkedIn URL here)*
-- GitHub: https://github.com/malavikasanthikrishna06-coder
+LinkedIn | GitHub | Email
 
----
-
-⭐ *"Learning by building. Improving with every project."*
+</div>
