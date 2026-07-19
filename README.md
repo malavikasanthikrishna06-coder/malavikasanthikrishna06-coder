@@ -7,9 +7,7 @@
 🚀 Building intelligent systems that solve real-world problems
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<h2>🐍 Contribution Snake</h2>
 
-<img src="https://raw.githubusercontent.com/malavikasanthikrishna06-coder/malavikasanthikrishna06-coder/output/github-contribution-grid-snake.svg">
 ## 🧠 About Me
 
 - 🔭 Working on AI, Computer Vision & Robotics projects
@@ -35,6 +33,9 @@ Robot communication system using ROS2 nodes and topics.
 ## 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=malavikasanthikrishna06-coder&show_icons=true&theme=tokyonight"/>
+<h2>🐍 Contribution Snake</h2>
+
+<img src="https://raw.githubusercontent.com/malavikasanthikrishna06-coder/malavikasanthikrishna06-coder/output/github-contribution-grid-snake.svg">
 ## 🌐 Connect With Me
 
 LinkedIn: YOUR_LINKEDIN  
