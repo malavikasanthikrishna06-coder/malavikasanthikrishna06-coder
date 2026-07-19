@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/images/banner.png" alt="Banner" width="100%">
+  <img src="assets/images/banner.png" width="100%" alt="Banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Malavika S</h1>
@@ -9,9 +9,8 @@ AI & Machine Learning Engineering Student
 </h3>
 
 <p align="center">
-Building intelligent solutions using Artificial Intelligence, Computer Vision, and Robotics.
+Passionate about Computer Vision, Deep Learning, Robotics, and building intelligent real-world solutions.
 </p>
-
 ---
 
 ## 🚀 About Me
