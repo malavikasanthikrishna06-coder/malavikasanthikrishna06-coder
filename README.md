@@ -14,6 +14,27 @@
 - 🌱 Learning Deep Learning, ROS2 and Advanced AI Systems
 - 💡 Interested in Autonomous Systems and AI Research
 - 🎯 Goal: Become an AI Engineer
+## 🛠️ Tech Stack
+
+### Languages
+Python • C++ • JavaScript
+
+### AI/ML
+PyTorch • TensorFlow • OpenCV • YOLO • Scikit-learn
+
+### Robotics
+ROS2 • PyBullet • Computer Vision Robotics
+
+### Development
+Git • GitHub • Flask • Streamlit
+
+## 📊 GitHub Statistics
+
+<img src="https://github-readme-stats.vercel.app/api?username=malavikasanthikrishna06-coder&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=malavikasanthikrishna06-coder&theme=tokyonight" />
+
+---
 
 ## 🚀 Featured Projects
 
