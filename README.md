@@ -14,9 +14,7 @@
 - 🌱 Learning Deep Learning, ROS2 and Advanced AI Systems
 - 💡 Interested in Autonomous Systems and AI Research
 - 🎯 Goal: Become an AI Engineer
-- ## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,opencv,tensorflow,ros,git,github,html,css,js,flask"/>
 ## 🚀 Featured Projects
 
 ### ✈️ Airport Runway Analytics System
@@ -32,11 +30,13 @@ AI-powered interactive hand tracking visualization using MediaPipe.
 Robot communication system using ROS2 nodes and topics.
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=malavikasanthikrishna06-coder&show_icons=true&theme=tokyonight&hide_border=true"/>
-<h2>🐍 Contribution Snake</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=malavikasanthikrishna06-coder&show_icons=true&theme=tokyonight" />
+</p>
+## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/malavikasanthikrishna06-coder/malavikasanthikrishna06-coder/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/malavikasanthikrishna06-coder/malavikasanthikrishna06-coder/output/github-contribution-grid-snake.svg">
 </p>
 ## 🌐 Connect With Me
 
