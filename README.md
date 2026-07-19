@@ -16,17 +16,15 @@
 - 🎯 Goal: Become an AI Engineer
 ## 🛠️ Tech Stack
 
-### Languages
-Python • C++ • JavaScript
+<h3 align="center">⚡ Tech Stack</h3>
 
-### AI/ML
-PyTorch • TensorFlow • OpenCV • YOLO • Scikit-learn
-
-### Robotics
-ROS2 • PyBullet • Computer Vision Robotics
-
-### Development
-Git • GitHub • Flask • Streamlit
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn" />
+<br>
+<img src="https://skillicons.dev/icons?i=flask,streamlit,react,mysql,sqlite" />
+<br>
+<img src="https://skillicons.dev/icons?i=ros,arduino,linux,docker,git,github" />
+</p>
 
 ## 📊 GitHub Statistics
 
