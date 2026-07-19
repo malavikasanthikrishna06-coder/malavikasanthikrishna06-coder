@@ -32,10 +32,12 @@ AI-powered interactive hand tracking visualization using MediaPipe.
 Robot communication system using ROS2 nodes and topics.
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=malavikasanthikrishna06-coder&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=malavikasanthikrishna06-coder&show_icons=true&theme=tokyonight&hide_border=true"/>
 <h2>🐍 Contribution Snake</h2>
 
+<p align="center">
 <img src="https://raw.githubusercontent.com/malavikasanthikrishna06-coder/malavikasanthikrishna06-coder/output/github-contribution-grid-snake.svg">
+</p>
 ## 🌐 Connect With Me
 
 LinkedIn: YOUR_LINKEDIN  
