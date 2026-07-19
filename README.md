@@ -28,16 +28,7 @@ AI-powered interactive hand tracking visualization using MediaPipe.
 
 ### 🤖 ROS2 Autonomous Robot
 Robot communication system using ROS2 nodes and topics.
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malavikasanthikrishna06-coder&show_icons=true&theme=tokyonight" />
-</p>
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/malavikasanthikrishna06-coder/malavikasanthikrishna06-coder/output/github-contribution-grid-snake.svg">
-</p>
 ## 🌐 Connect With Me
 
 LinkedIn: YOUR_LINKEDIN  
