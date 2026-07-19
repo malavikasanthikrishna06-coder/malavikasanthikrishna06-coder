@@ -1,7 +1,9 @@
 <p align="center">
   <img src="assets/images/banner.png" width="100%" alt="Banner"/>
 </p>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineering+Student;Computer+Vision+Enthusiast;Deep+Learning+Explorer;Building+Real-World+AI+Projects" alt="Typing SVG" />
+</p>
 <h1 align="center">Hi 👋, I'm Malavika S</h1>
 
 <h3 align="center">
