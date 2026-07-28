@@ -1,522 +1,238 @@
-You are an Elite GitHub Portfolio Architect, Senior Software Engineer, Technical Recruiter, UI/UX Designer, Open Source Maintainer, and Personal Branding Expert.
-
-Your mission is to transform my GitHub into a world-class software engineering portfolio that immediately impresses recruiters from Microsoft, Google, Amazon, NVIDIA, Apple, OpenAI, Adobe, Intel, Oracle, IBM, Qualcomm, Samsung, Meta, and top startups.
-
-My profile should look like someone with real engineering experience, while remaining completely truthful.
-
-====================================================
-PERSONAL INFORMATION
-====================================================
-
-Name: Malavika S
-
-Role:
-AI & Machine Learning Engineering Student
-
-Career Goals:
-• AI Engineer
-• Machine Learning Engineer
-• Computer Vision Engineer
-• Software Engineer
-• Full Stack Developer
-
-Current Focus
-• Artificial Intelligence
-• Machine Learning
-• Deep Learning
-• Computer Vision
-• Generative AI
-• Django Development
-• Open Source
-• Research Projects
-
-====================================================
-TECH STACK
-====================================================
-
-Languages
-• Python
-• Java
-• C
-• JavaScript
-• SQL
-
-Frontend
-• HTML5
-• CSS3
-• Bootstrap
-
-Backend
-• Django
-• Flask
-
-Machine Learning
-• Scikit-Learn
-• TensorFlow
-• PyTorch
-• OpenCV
-• YOLOv8
-• MediaPipe
-• NumPy
-• Pandas
-• Matplotlib
-
-Database
-• SQLite
-• MySQL
-
-Tools
-• Git
-• GitHub
-• VS Code
-• Jupyter Notebook
-• Streamlit
-• Figma
-• Canva
-• Linux
-• Windows
+# Hi there, I'm Malavika S 👋
 
-====================================================
-CERTIFICATIONS
-====================================================
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineering+Student;Computer+Vision+Developer;Python+%7C+Django+%7C+YOLOv8;Building+Intelligent+Applications;Always+Learning+Something+New+🚀" alt="Typing SVG" />
+</p>
 
-Include Professional Certification Section
+---
 
-Examples
+## 🚀 About Me
 
-• Microsoft Azure AI Fundamentals
-• Deloitte Data Analytics Job Simulation
-• Tata Data Visualization
-• JP Morgan Software Engineering
-• Nestlé E-learning
-• NPTEL Certifications
+I'm an **AI & Machine Learning Engineering student** passionate about building intelligent applications that solve real-world problems.
 
-====================================================
-PROJECTS
-====================================================
+I enjoy working on:
 
-Project 1
-Airport Runway Analytics System
+* 🤖 Artificial Intelligence
+* 🧠 Machine Learning
+* 👁️ Computer Vision
+* 🐍 Python Development
+* 🌐 Django Web Development
+* 📊 Deep Learning
+* 📷 OpenCV & YOLOv8
+* 💡 Building innovative software projects
 
-Features
-• Aircraft Detection
-• YOLOv8
-• ByteTrack
-• Real-Time Tracking
-• Runway Occupancy Detection
-• CSV Report Generation
-• Analytics Dashboard
-• Streamlit
-• OpenCV
+---
 
-----------------------------------------------------
+## 🌱 Currently Learning
 
-Project 2
+* Large Language Models (LLMs)
+* Advanced Computer Vision
+* Generative AI
+* MLOps
+* Advanced Django Development
 
-ShopSphere
+---
 
-Features
+## 💻 Tech Stack
 
-• Django
-• Authentication
-• Cart
-• Checkout
-• Reviews
-• Product Management
-• Admin Dashboard
-• Responsive Design
+### Languages
 
-----------------------------------------------------
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,mysql" />
+</p>
 
-Project 3
+### Frameworks & Libraries
 
-AirScreen AI
-
-Features
-
-• Gesture Controlled Music Player
-• MediaPipe
-• OpenCV
-• Machine Learning
-• Hand Tracking
-• Gesture Recognition
-
-----------------------------------------------------
-
-Project 4
-
-Student ID Card Detection
-
-Features
-
-• YOLOv8
-• Object Detection
-• Computer Vision
-• Custom Dataset
-• Bounding Box Detection
-
-----------------------------------------------------
-
-Project 5
-
-MNIST Digit Recognition
-
-Features
-
-• CNN
-• PyTorch
-• Deep Learning
-• Image Classification
-
-----------------------------------------------------
-
-Project 6
-
-Movie Recommendation System
-
-Features
-
-• Hybrid Recommendation
-• Machine Learning
-• Content Based
-• Collaborative Filtering
-
-----------------------------------------------------
-
-Project 7
-
-LostLink
-
-Features
-
-• Flask
-• SQLite
-• Authentication
-• CRUD Operations
-
-====================================================
-GITHUB PROFILE README
-====================================================
-
-Create a modern GitHub Profile README with
-
-✔ Premium Hero Banner
-✔ Animated Header
-✔ Typing Animation
-✔ Wave Animation
-✔ About Me
-✔ Developer Quote
-✔ Current Focus
-✔ Tech Stack Icons
-✔ Languages
-✔ Frameworks
-✔ Libraries
-✔ Tools
-✔ Databases
-✔ Operating Systems
-✔ IDEs
-✔ AI Stack
-✔ Featured Projects
-✔ GitHub Stats
-✔ GitHub Streak
-✔ Top Languages
-✔ Activity Graph
-✔ Contribution Snake Animation
-✔ GitHub Trophies
-✔ Profile Summary Cards
-✔ Visitor Counter
-✔ Followers Badge
-✔ Stars Badge
-✔ Repository Badge
-✔ Total Commits
-✔ Coding GIF
-✔ Connect With Me
-✔ LinkedIn
-✔ Email
-✔ Portfolio Placeholder
-✔ Resume Placeholder
-✔ Buy Me Coffee Placeholder
-✔ Fun Facts
-✔ Random Dev Quote
-✔ Spotify Now Playing Placeholder
-✔ Coding Time Placeholder
-✔ Blog Placeholder
-✔ Open Source Section
-✔ Achievements
-✔ Hackathons
-✔ Experience
-✔ Leadership
-✔ Volunteering
-✔ Education Timeline
-✔ Certifications Timeline
-✔ Skills Progress
-✔ Interests
-✔ Languages Spoken
-✔ Career Goals
-✔ Call To Action
-
-====================================================
-REPOSITORY IMPROVEMENTS
-====================================================
-
-For EVERY repository generate
-
-Professional README
-
-Include
-
-✔ Hero Image
-✔ Project Banner
-✔ Demo GIF Placeholder
-✔ Screenshots
-✔ Features
-✔ Architecture
-✔ Folder Structure
-✔ Installation
-✔ Requirements
-✔ Usage
-✔ Results
-✔ Performance
-✔ Dataset
-✔ Technologies
-✔ Future Improvements
-✔ Roadmap
-✔ API Documentation
-✔ Deployment
-✔ Docker Support Placeholder
-✔ Testing
-✔ Benchmark
-✔ FAQ
-✔ Troubleshooting
-✔ License
-✔ Credits
-✔ Acknowledgements
-✔ Contact
-
-====================================================
-REPOSITORY SETTINGS
-====================================================
-
-Recommend
-
-• Best Repository Names
-• Best Descriptions
-• Topics
-• Labels
-• License
-• GitHub Pages
-• Releases
-• Version Tags
-• Semantic Versioning
-• Discussions
-• Wiki
-• Projects
-• Branch Protection
-• Default Branch
-• Pull Request Template
-• Issue Template
-• Code Owners
-• Dependabot
-• Security Policy
+<p>
+<img src="https://skillicons.dev/icons?i=django,flask,tensorflow,pytorch" />
+</p>
 
-====================================================
-PINNED REPOSITORIES
-====================================================
+### AI & Data Science
 
-Recommend best six pinned repositories
+* OpenCV
+* YOLOv8
+* MediaPipe
+* NumPy
+* Pandas
+* Matplotlib
+* Scikit-Learn
 
-Order them for maximum recruiter impact.
+### Tools
 
-====================================================
-PROFILE APPEARANCE
-====================================================
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,windows" />
+</p>
 
-Recommend
+---
 
-Banner Style
+# 📌 Featured Projects
 
-Professional Color Palette
+## ✈️ Airport Runway Analytics System
 
-Typography
+Real-time runway monitoring system using
 
-Profile Picture Style
+* YOLOv8
+* ByteTrack
+* OpenCV
+* Streamlit
+* Aircraft Detection
+* Runway Occupancy Analytics
 
-Dark Theme
+---
 
-Minimal Design
+## 🛒 ShopSphere
 
-Modern Engineering Theme
+A modern Django E-commerce Platform featuring
 
-====================================================
-GITHUB ACTIONS
-====================================================
+* Authentication
+* Shopping Cart
+* Product Management
+* Reviews
+* Responsive UI
 
-Recommend workflows for
+---
 
-• Python CI
-• Django CI
-• Testing
-• Linting
-• Formatting
-• Security Scan
-• Dependency Updates
-• CodeQL
-• Build Status
-• Documentation Deployment
+## ✋ AirScreen AI
 
-====================================================
-BADGES
-====================================================
+Gesture Controlled Music Player using
 
-Add premium badges for
+* MediaPipe
+* OpenCV
+* Machine Learning
+* Hand Gesture Recognition
 
-Python
+---
 
-Django
+## 🪪 Student ID Card Detection
 
-Machine Learning
+Computer Vision project using
 
-Deep Learning
+* YOLOv8
+* Custom Dataset
+* Object Detection
 
-PyTorch
+---
 
-TensorFlow
+## 🔢 MNIST Digit Recognition
 
-OpenCV
+Deep Learning CNN built with
 
-YOLOv8
+* PyTorch
+* CNN
+* Image Classification
 
-Git
+---
 
-GitHub
+## 🎬 Movie Recommendation System
 
-Linux
+Hybrid Recommendation Engine using
 
-VS Code
+* Machine Learning
+* Content-Based Filtering
+* Collaborative Filtering
 
-HTML
+---
 
-CSS
+## 📊 GitHub Statistics
 
-JavaScript
+<p align="center">
 
-SQL
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=malavikasanthikrishna06-coder&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-MySQL
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malavikasanthikrishna06-coder&layout=compact&theme=tokyonight&hide_border=true"/>
 
-SQLite
+</p>
 
-Streamlit
+---
 
-Figma
+## 🔥 GitHub Streak
 
-Canva
+<p align="center">
 
-Open Source
+<img src="https://streak-stats.demolab.com?user=malavikasanthikrishna06-coder&theme=tokyonight&hide_border=true"/>
 
-AI
+</p>
 
-Computer Vision
+---
 
-====================================================
-COMMITS
-====================================================
+## 📈 Contribution Graph
 
-Recommend
+<p align="center">
 
-Professional Commit Convention
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=malavikasanthikrishna06-coder&theme=tokyo-night"/>
 
-Conventional Commits
+</p>
 
-Branch Naming
+---
 
-Release Strategy
+## 🏆 GitHub Trophies
 
-Versioning Strategy
+<p align="center">
 
-====================================================
-RECRUITER REVIEW
-====================================================
+<img src="https://github-profile-trophy.vercel.app/?username=malavikasanthikrishna06-coder&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
-Review my GitHub exactly like a recruiter.
+</p>
 
-Score
+---
 
-• Overall
-• Technical Skills
-• Documentation
-• Professionalism
-• Readability
-• Consistency
-• Portfolio Quality
-• Open Source Readiness
-• Internship Readiness
-• Placement Readiness
+## 📜 Certifications
 
-Explain every weakness.
+* Microsoft Azure AI Fundamentals
+* Deloitte Data Analytics Job Simulation
+* Tata Data Visualization
+* JP Morgan Software Engineering Job Simulation
+* Nestlé E-Learning
+* NPTEL Certifications
 
-Give step-by-step improvements.
+---
 
-====================================================
-BONUS
-====================================================
+## 🎯 2026 Goals
 
-Suggest
+* Build impactful AI & Machine Learning projects
+* Master Computer Vision
+* Contribute to Open Source
+* Learn Generative AI & LLMs
+* Secure a Software Engineering Internship
+* Publish technical projects on GitHub
 
-20 AI/ML Projects
+---
 
-20 Django Projects
+## 🤝 Connect With Me
 
-20 Full Stack Projects
+<p>
 
-20 Computer Vision Projects
+<a href="https://github.com/malavikasanthikrishna06-coder">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-20 Resume-worthy Projects
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-10 Research Projects
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
 
-10 Open Source Contributions
+</p>
 
-10 Kaggle Competitions
+---
 
-10 Hackathons
+## 💡 Quote
 
-10 Certifications
+> "Learning never exhausts the mind. Every project is one step closer to building something meaningful."
 
-10 Portfolio Improvements
+---
 
-10 LinkedIn Improvements
+<p align="center">
 
-10 Resume Improvements
+<img src="https://komarev.com/ghpvc/?username=malavikasanthikrishna06-coder&label=Profile%20Views&color=0e75b6&style=flat"/>
 
-10 Blog Ideas
+</p>
 
-10 Technical Articles
+---
 
-10 Portfolio Case Studies
+<p align="center">
 
-10 Demo Video Ideas
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
 
-10 Project Presentation Ideas
-
-10 Interview Projects
-
-====================================================
-FINAL OUTPUT
-====================================================
-
-Everything must be
-
-✔ Beautiful Markdown
-✔ Recruiter Friendly
-✔ ATS Friendly
-✔ Professional
-✔ Minimal
-✔ Dark Theme Compatible
-✔ Responsive
-✔ Production Ready
-✔ Copy-and-Paste Ready
-
-Do not give outlines.
-
-Generate the complete GitHub portfolio with all Markdown, badges, links, icons, GitHub widgets, README files, recommendations, and assets ready to use.
+</p>
